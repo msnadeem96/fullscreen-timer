@@ -1,4 +1,4 @@
-# Fullscreen Timer (Forked from alphakevin
+# Fullscreen Timer (Forked from alphakevin)
 
 This is a simple timer for presenter who wish to see how much time he / she has spend
 
